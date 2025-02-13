@@ -8,7 +8,7 @@
 [api project video]()
 ## 🍁Introduction 
 This project demonstrates a serverless application architecture using AWS services. The architecture includes an API Gateway, AWS Lambda functions, and DynamoDB for data storage. The application allows users to perform CRUD (Create, Read, Update, Delete) operations through API endpoints.
-[image1](https://github.com/DNcrypter/AWS-serverless-API-application/blob/main/images/image1.png)
+![image1](https://github.com/DNcrypter/AWS-serverless-API-application/blob/main/images/image1.png)
 ## Architecture Overview
 
 The architecture diagram illustrates the following components:
