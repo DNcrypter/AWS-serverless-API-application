@@ -5,7 +5,8 @@
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
         [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
-![api project video](https://www.youtube.com/watch?v=k8ihlx4fJ-I)
+[![Watch the video](https://img.youtube.com/vi/k8ihlx4fJ-I/maxresdefault.jpg)](https://www.youtube.com/watch?v=k8ihlx4fJ-I)
+
 ## 🍁Introduction 
 This project demonstrates a serverless application architecture using AWS services. The architecture includes an API Gateway, AWS Lambda functions, and DynamoDB for data storage. The application allows users to perform CRUD (Create, Read, Update, Delete) operations through API endpoints.
 ![image1](https://github.com/DNcrypter/AWS-serverless-API-application/blob/main/images/image1.png)
